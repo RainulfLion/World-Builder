@@ -1,0 +1,31 @@
+# Core game engine and graphics
+pygame==2.5.2
+pygame-gui==0.6.9
+
+# Database
+
+# GUI and dialogs
+
+# Audio support (optional)
+pydub==0.25.1  # For audio file processing
+# simpleaudio==1.0.4  # For simple audio playback (commented out - requires C++ build tools)
+
+# Image processing
+Pillow==10.0.1  # For advanced image handling
+
+# Data handling
+numpy==1.24.3  # For numerical operations if needed
+
+# File handling and utilities
+
+
+# Optional: Advanced audio recording
+# pyaudio==0.2.11  # Uncomment if you want audio recording
+# wave  # Built into Python standard library
+
+# Optional: Speech-to-text for voice notes
+# speechrecognition==3.10.0  # Uncomment for voice recognition
+# pyttsx3==2.90  # Uncomment for text-to-speech
+
+# Development and debugging
+# pygame-ce==2.4.1  # Alternative pygame community edition (optional)
